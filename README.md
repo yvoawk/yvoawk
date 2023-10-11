@@ -36,7 +36,7 @@ I am always excited to collaborate with fellow researchers, medical professional
 
 📧 You can contact me via email at [yvo.awk13@gmail.com](mailto:yvo.awk13@gmail.com).
 
-Connect with me on LinkedIn: [LinkedIn Profile Link](https://fr.linkedin.com/in/yvonawuklu)
+Connect with me on [LinkedIn](https://fr.linkedin.com/in/yvonawuklu).
 
 Thank you for visiting my GitHub profile, and I look forward to exploring the exciting possibilities at the intersection of medicine and technology! 🌟
 
