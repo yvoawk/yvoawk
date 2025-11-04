@@ -34,7 +34,7 @@ My name is Yvon AWUKLU. I am a **Medical Doctor** and **Medical Computer Scienti
 
 I am always excited to collaborate with fellow researchers, medical professionals, and technology enthusiasts. If you share my passion for leveraging technology to transform healthcare, feel free to reach out. Let's work together to shape the future of medicine through intelligent data handling, knowledge representation, and reasoning.
 
-📧 You can contact me via email at [yvo.awk13@gmail.com](mailto:yvo.awk13@gmail.com).
+📧 You can contact me via email at [yvon.awuklu@gmail.com](mailto:yvon.awuklu@gmail.com).
 
 Connect with me on [LinkedIn](https://fr.linkedin.com/in/yvonawuklu).
 
